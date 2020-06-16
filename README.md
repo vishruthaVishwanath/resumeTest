@@ -1,3 +1,2 @@
 learning GIT commands
-changed from user
-
+merged change from user
