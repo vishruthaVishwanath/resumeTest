@@ -1,5 +1,5 @@
 learning GIT commands
-changed change from user
+mergedchange from user
 test 
 test
 test
